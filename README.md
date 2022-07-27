@@ -2,8 +2,7 @@
 
 Projeto DNA
 
-[![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![javaasccripptt Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
-
+[![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![javaasccripptt Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
 
 </h1>
 
