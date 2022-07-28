@@ -2,18 +2,22 @@
 import { Controller } from '@nestjs/common';
 import { ProjetoDnaService } from './projeto-dna.service';
 
-//chamando o json de humanos
+/* //chamando o json de humanos
 let humanJson = require('./model/humanDna.service');
 console.log(humanJson);
 
 let simianJson = require('./model/simianDna.service');
-console.log(simianJson);
+console.log(simianJson); */
+
+const { dna } = require('./model/human.json')
+console.log(`O DNA  do humano é ${dna}`);
+
 
 @Controller('projeto-dna')
 export class ProjetoDnaController {
 
   constructor(private readonly projetoDnaService: ProjetoDnaService) {}
-
+/* 
   //função getAll retorna todos os dna's de humanos
   getAllhuman = (response) => {
     response.status(200).json([
@@ -32,5 +36,5 @@ export class ProjetoDnaController {
     ]);
     console.log(simianJson);
   };
-  
+   */
 }
